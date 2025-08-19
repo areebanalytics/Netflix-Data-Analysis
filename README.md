@@ -23,4 +23,4 @@ It involves **data cleaning**, **exploratory data analysis (EDA)**, and **visual
 4. Run the notebook step by step  
 
 ## 📂 Dataset  
-- Source: Netflix dataset (Kaggle or CSV file provided with repo)  
+- Source: Netflix dataset [(Kaggle or CSV file provided with repo) ](https://www.kaggle.com/datasets/shivamb/netflix-shows) 
